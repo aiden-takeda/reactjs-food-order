@@ -1,0 +1,4 @@
+baseURL = "https://aiden-takeda.github.io/reactjs-food-order"
+languageCode = "en-us"
+title = "My Site"
+theme = "" # add a theme later if you want
